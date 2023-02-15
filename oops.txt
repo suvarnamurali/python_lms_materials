@@ -1,0 +1,27 @@
+Object-Oriented Programming (OOP) and Procedural Oriented Programming (POP) are two
+ paradigms of programming that are used to structure and organize code.
+
+Procedural Oriented Programming (POP) focuses on writing procedures or functions 
+that perform specific tasks. These procedures are organized into modules, which 
+can be called from other parts of the program. The emphasis is on breaking down
+ a large problem into smaller, manageable procedures that can be easily understood 
+ and modified. POP is often used for small, simple programs, and it is generally easier 
+ to learn and understand than OOP.
+
+On the other hand, Object-Oriented Programming (OOP) is a programming paradigm that is based
+ on the concept of objects. Objects are instances of classes, which are essentially templates
+  or blueprints that describe the attributes and behavior of a type of real-world object. OOP 
+  emphasizes the organization of code into objects that interact with each other to solve 
+  problems. This allows for the creation of reusable code, which can be easily maintained and 
+  extended over time. OOP is commonly used for large, complex applications, such as video games
+   or web applications.
+
+In OOP, data and behavior are encapsulated in an object, making it easier to understand and 
+manage the relationships between different parts of the program. OOP also provides features 
+such as inheritance and polymorphism, which allow for code to be reused and adapted for
+ different purposes.
+
+In conclusion, both OOP and POP have their own strengths and weaknesses, and the choice
+ between the two depends on the specific requirements of the project and the preferences 
+ of the programmer. However, OOP is generally a more powerful and flexible programming paradigm 
+ that is well suited to large, complex applications.
